@@ -9,7 +9,7 @@ Ext3nk1llr or (extension killer) is a new chrome os exploit that allows you to t
 
 **Instructions**
 1. Go to chrome://bookmarks and make a new folder. 
-2. Then go to chrome://-the extension you want to kill-/
+2. Then go to chrome-extension://-the extension you want to kill-/    minus the dashes
 3. Copy the URL of the extension page, then go to  the bookmarks page.
 4. Once there, paste the url as  a new bookmark. Make about 800-1000 bookmarks in that folder.
 5. Then, open up the extension page for your extension. Keep that open
